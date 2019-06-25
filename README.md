@@ -1,3 +1,4 @@
+For Discord Hack Week
 # role_manager
 A discord Bot to keep roles.
 
