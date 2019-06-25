@@ -1,5 +1,5 @@
 For Discord Hack Week
-# role_manager
+# role_keeper (I change from manager)
 A discord Bot to keep roles.
 
 # what do
