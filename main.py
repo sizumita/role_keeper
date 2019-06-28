@@ -10,4 +10,7 @@ extensions = [
 
 bot = commands.Bot("::")
 
+for extension in extensions:
+    bot.load_extension(extension)
+
 bot.run(os.environ.get("TOKEN"))
